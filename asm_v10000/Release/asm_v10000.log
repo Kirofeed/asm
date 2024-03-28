@@ -1,0 +1,8 @@
+﻿  Assembling MASMTest.asm...
+  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+MASMTest.obj : error LNK2026: небезопасный модуль для образа SAFESEH.
+C:\Users\drozh\source\repos\asm_v10000\Release\asm_v10000.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
